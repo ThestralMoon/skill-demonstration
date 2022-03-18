@@ -5,6 +5,10 @@ import static org.junit.Test.*;
 
 public class SkillDemoTest {
 
+    public static void main(String[] args) {
+
+    }
+
     //Fail Initially
     @Test
     public void testLog() {
